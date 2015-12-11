@@ -4,3 +4,9 @@ The project utilizes concepts learned from [Intro to HTML and CSS](https://www.u
 
 ##Purpose
 Demonstrated ability to use the Bootstrap framework and build a grid-based responsive template site. 
+
+##Usage
+Simply visit http://d3moid.github.io/udacity-frontend-p1-portfolio-site/
+
+##Preview
+![Portfolio Site Template](http://snag.gy/tQK8Y.jpg)
